@@ -1,0 +1,3 @@
+myString1=InputBox("Enter old hardware ID")
+myString2=InputBox("Enter new hardware ID")
+WScript.Echo myString1, myString2
